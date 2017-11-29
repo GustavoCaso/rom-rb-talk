@@ -1,0 +1,7 @@
+# frozen_string_literal: true
+source "https://rubygems.org"
+
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+gem 'rom'
+gem 'rom-yaml', github: 'rom-rb/rom-yaml', branch: 'upgrade-to-use-full-power-of-rom-4'
