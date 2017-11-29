@@ -2,3 +2,5 @@ example/.bundle
 example/vendor
 example2/.bundle
 example2/vendor
+yaml_example/.bundle
+yaml_example/vendor
